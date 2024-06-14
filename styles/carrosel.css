@@ -1,0 +1,42 @@
+.carrosel__titulo {
+    background: var(--cor-secundaria);
+    padding: 0.5rem 0;
+    color: var(--hover);
+    font-weight: 500;
+    font-size: 1.2rem;
+    text-align: center;
+}
+
+.swiper-pagination {
+    position: initial;
+    margin: 0.5em 0;
+}
+
+.swiper-slide {
+    background: var(--cor-secundaria);
+    padding: 1rem;
+    margin: 0.5rem;
+    border-radius: 10px;    
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+
+.swiper-slide__descricao {
+    display: flex;
+    flex-direction: column-reverse;
+    text-align: center; 
+    text-decoration: none;
+    color: var(--cor-texto);
+}
+
+.swiper-slide__descricao p {
+    margin-top: 0.5rem
+}
+
+.swiper-slide img {
+    width: 100%;
+}
+
+.swiper-button-prev,
+.swiper-button-next {
+    display: none;
+}

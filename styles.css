@@ -1,0 +1,23 @@
+@import url("styles/header.css");
+@import url("styles/banner.css");
+@import url("styles/about.css");
+@import url("styles/carrosel.css");
+@import url("styles/services.css");
+@import url("styles/contacts.css");
+@import url("styles/footer.css");
+
+:root {
+    --cor-de-fundo: #EEEEF5;    
+    --cor-secundaria: #FFFFFF;
+    --cor-terciaria: #FF7D29;
+    --cor-texto: #000000;
+    --hover: #35CCCC;
+    --fonte-principal: "Rubik", sans-serif;
+}
+
+body {
+    background-color: var(--cor-de-fundo);
+    font-size: 1rem;
+    font-family: var(--fonte-principal);
+    font-weight: 400;
+}

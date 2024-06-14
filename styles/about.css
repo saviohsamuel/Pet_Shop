@@ -1,0 +1,33 @@
+.sobre {
+    text-align: justify;    
+}
+
+.sobre-historia__texto {
+    padding: 0.3rem 1rem;
+}
+
+.sobre-historia__titulo {
+    background: var(--cor-secundaria);
+    padding: 0.5rem 0;
+    color: var(--hover);
+    font-weight: 500;
+    font-size: 1.2rem;
+    text-align: center;
+}
+
+.container-info {
+    background-color: var(--cor-secundaria);
+    border: 1px solid transparent;
+    border-radius: 15px;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+    text-align: center;
+    padding: 1rem 2rem;
+    margin: 0.7rem 10vw;
+}
+
+.container-info-titulo {
+    font-size: 1.3rem;
+    margin-bottom: 0.4rem ;
+    font-weight: 400;
+    color: var(--hover);
+}
