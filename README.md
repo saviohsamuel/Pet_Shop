@@ -8,4 +8,4 @@
 <p>Posicionamento com flexbox, icones animados no formato de gif.</p>
 
 ## Imagem do projeto
-![image](https://github.com/saviohsamuel/Pet_Shop/assets/122576368/9dbcae06-bd3c-42d0-9dbf-0a322d065fbe)
+![image](https://github.com/saviohsamuel/Pet_Shop/assets/122576368/7ee7748d-e3b0-454a-9569-8c26e2ba5634)
